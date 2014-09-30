@@ -1,0 +1,22 @@
+Htmlの基本構造
+Html（hyper text markup language）とはウェブページを作成する為に開発された言語のことである。簡単にいうとハイパーテキスト（ハイパーリンクを埋め込むことの出来る高機能なテキスト）のための、文章に目印をつける方法を定めた文法上の約束のこと。
+
+Cssの基本構造
+Css（cascading style sheet）とはウェブページのデザインやレイアウトを定義するもの
+
+Htmlとcssの役割分担
+Htmlは枠組みや、文章などホームページのメインの部分を担当し、cssは色や文字の字体といった装飾的なところを担当する。
+
+Html、cssサンプル
+<html>
+<head>
+<title>サンプル</title>
+<style type=”text/css”>
+<!--
+body{background-color: #ffff99} /青/
+-->
+</style>
+</head>
+<body>
+</body>
+</html>
